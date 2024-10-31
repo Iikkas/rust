@@ -1,10 +1,12 @@
 # rust prac
 
-To run 
+To run   
 
-1 cargo new "" <----whatever
-2 put whichever .rs code to main.rs in your src/ folder
-3 put dependencies to cargo.toml file under dependencies
-4 cargo run
+1. `cargo new ""` <----whatever  
+2. Put whichever `.rs` code into `main.rs` in your `src/` folder  
+3. Add dependencies to `Cargo.toml` under `[dependencies]`  
+4. Run with `cargo run`  
 
-cargo build --release for binary
+To build a release binary:  
+
+`cargo build --release`
