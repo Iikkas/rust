@@ -1,6 +1,6 @@
 # rust prac
 
-To run   
+To run any .rs file  
 
 1. `cargo new ""` <----whatever  
 2. Put whichever `.rs` code into `main.rs` in your `src/` folder  
