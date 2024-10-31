@@ -1,0 +1,4 @@
+Dependencies
+
+COMPRESS.RS
+flate2 = "1.0.24"
