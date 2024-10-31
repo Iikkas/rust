@@ -1,5 +1,4 @@
-# rust
-prac
+# rust prac
 
 To run 
 
