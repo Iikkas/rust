@@ -2,3 +2,7 @@ Dependencies
 
 COMPRESS.RS
 flate2 = "1.0.24"
+
+JSON.RS
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
